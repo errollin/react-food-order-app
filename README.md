@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# react-food-order-app
 
 A react practice project learn from Max on Udemy.
 
