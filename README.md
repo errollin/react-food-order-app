@@ -2,6 +2,8 @@
 
 A react practice project learn from Max on Udemy.
 
+The data in the project is created by the Firebase Realtime Database.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
